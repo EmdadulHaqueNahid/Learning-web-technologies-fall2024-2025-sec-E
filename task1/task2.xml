@@ -1,0 +1,32 @@
+<admission_info>
+
+    <student sr="1">
+        <id>23</id>
+        <name>John Carter</name>
+        <admission_date>
+            <day>15</day>
+            <month>12</month>
+            <year>2015</year>
+        </admission_date>
+    </student>
+
+    <student sr="2">
+        <id>29</id>
+        <name>Bob Marshal</name>
+        <admission_date>
+            <day>13</day>
+            <month>01</month>
+            <year>1999</year>
+        </admission_date>
+    </student>
+
+    <student sr="3">
+        <id>35</id>
+        <name>Clark Kent</name>
+        <admission_date>
+            <day>17</day>
+            <month>06</month>
+            <year>2005</year>
+        </admission_date>
+    </student>
+</admission_info>
